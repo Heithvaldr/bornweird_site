@@ -1,0 +1,13 @@
+.nav li {
+    text-transform: uppercase;        
+}
+.dropdown-menu {
+    background-color: #333;
+}
+
+.dropdown-menu li a {
+    color: black;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
