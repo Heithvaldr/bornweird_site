@@ -1,13 +1,42 @@
+
+a {
+    color: #ff9700;
+}
+a:hover {
+    color: #faba5e;
+    text-decoration: none;
+} 
 .nav li {
     text-transform: uppercase;        
 }
-.dropdown-menu {
-    background-color: #333;
-}
-
-.dropdown-menu li a {
-    color: black;
-}
 .carousel-inner > .item > img {
     margin: 0 auto;
+}
+.mad-mike {
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    
+}
+.mad-mike span {
+    text-transform: uppercase;
+}
+.store .item-wrapper {
+    padding-left: 5px;
+    padding-right: 0;
+}
+.store .item {
+    height: 100px;
+    border: 1px solid grey;
+    background: #fdcc84;
+}
+.store .row {
+    padding-bottom: 5px;
+}
+.fourth-footer-column a {
+    display: block;
+}
+.fourth-footer-column a p {
+    display: inline-block;
 }
